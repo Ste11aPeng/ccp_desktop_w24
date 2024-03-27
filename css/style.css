@@ -478,6 +478,10 @@ footer {
     section p {
         width: 80%;
     }
+        .intro {
+        font-size: 3rem;
+    }
+
 
     h1,
     h2,
