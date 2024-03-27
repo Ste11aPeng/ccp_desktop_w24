@@ -484,6 +484,9 @@ footer {
     h3 {
         font-size: 3rem;
     }
+    h3 {
+        margin-bottom: 100px;
+    }
 
     /* Grid Layout Adjustments */
     .container {
