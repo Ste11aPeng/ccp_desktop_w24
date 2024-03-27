@@ -484,9 +484,6 @@ footer {
     h3 {
         font-size: 3rem;
     }
-    h3 {
-        margin-bottom: 150px;
-    }
 
     /* Grid Layout Adjustments */
     .container {
@@ -498,5 +495,8 @@ footer {
     .grid-photo-travel,
     .grid-photo-food {
         grid-template-columns: repeat(4, 1fr);
+    }
+    .grid-photo-food{
+        margin-top: 100px;
     }
 }
